@@ -6,4 +6,4 @@ My team won the event with the poster in this repository.
 https://www.serene-risc.ca/fr/evenements/developpement-professionnel/concours-etudiant-visant-a-vulgariser-des-statistiques-sur-la-cybersecurite-et-la-cybercriminalite
 https://www.serene-risc.ca/fr/nouvelles/c_-dakoure-et-c_-felx-leduc-remportent-le-defi-cyberstats-de-serene-risc
 
-![alt text](https://github.com/carodak/SERENE-RISC-s-CyberStats-Challenge/poster.png)
+![alt text](https://github.com/carodak/SERENE-RISC-s-CyberStats-Challenge/poster.jpeg)
