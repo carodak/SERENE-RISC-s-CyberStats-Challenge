@@ -12,3 +12,5 @@ https://www.serene-risc.ca/en/statistics-canada
 https://www.serene-risc.ca/fr/nouvelles/c_-dakoure-et-c_-felx-leduc-remportent-le-defi-cyberstats-de-serene-risc
 
 ![alt text](https://github.com/carodak/SERENE-RISC-s-CyberStats-Challenge/blob/main/poster.png)
+
+Note: It was a very interesting event, I enjoyed choosing the information we were going to use, being able to use my analytical skills and use my creativity when designing the poster. The GoSecure 2019 conference was also very interesting, I had the opportunity to meet people from different backgrounds, it was motivating and a great human experience.
